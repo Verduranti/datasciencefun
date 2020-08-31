@@ -1,6 +1,6 @@
 The script in this repo can be safely run assuming you have done pip install requirements.txt
 
-summarize.py was going to dp more but then I realized it would be overkill so all it does it retrieve the files for local use
+summarize.py was going to do more but then I realized it would be overkill so all it does it retrieve the files for local use
 exploration.ipynb contains the meat of the assignment
 
 Questions
